@@ -27,3 +27,5 @@ themeToggleBtn.onclick = () => {
     themeToggleBtn.classList.toggle("active");
     isDark = !isDark;
 };
+
+//comentario fuera de contexto xd
